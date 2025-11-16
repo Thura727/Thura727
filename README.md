@@ -13,15 +13,16 @@ Backend
 <p> <img src="https://skillicons.dev/icons?i=nodejs" /> <img src="https://skillicons.dev/icons?i=express" /> <img src="https://skillicons.dev/icons?i=php" /> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://skillicons.dev/icons?i=django" /> </p>
 Databases & Tools
 <p> <img src="https://skillicons.dev/icons?i=mysql" /> <img src="https://skillicons.dev/icons?i=mongodb" /> <img src="https://skillicons.dev/icons?i=sqlite" /> <img src="https://skillicons.dev/icons?i=git" /> <img src="https://skillicons.dev/icons?i=github" /> <img src="https://skillicons.dev/icons?i=postman" /> <img src="https://skillicons.dev/icons?i=linux" /> </p>
-📡 Networking Knowledge
+---
 
-VLANs, Trunking
+## 📡 Networking Knowledge
 
-Routing Basics
+* **🛡️ VLANs and Trunking** 
+* **🗺️ Routing Basics** 
+* **👨‍💻 Cisco Packet Tracer** 
+* **🔍 Network Protocols** 
 
-Cisco Packet Tracer
-
-Network protocols understanding (TCP/IP, HTTP, etc.)
+---
 
 🌐 Connect With Me
 
@@ -56,11 +57,4 @@ Network protocols understanding (TCP/IP, HTTP, etc.)
 
 ---
 
-## 💼 Currently Working On
 
-* **💻 Fullstack Projects:** Building applications using React, Node.js, and a database (DB).
-* **🎨 UI/UX Design Practice:** Focusing on clean, user-friendly interface and experience design.
-* **🌐 Portfolio Website:** Developing a personal site to showcase my projects and skills.
-* **🎓 Final-Year CSE Studies:** Completing my honors degree in Computer Science Engineering @ MIIT.
-
----
