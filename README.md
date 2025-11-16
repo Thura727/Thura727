@@ -24,37 +24,30 @@ Databases & Tools
 
 ---
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_INVITE_URL)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+
+---
 
 ---
 
 ## 🏆 Focus Areas
 
-* **🌐 Web Applications:** Building and deploying modern, responsive web solutions.
-* **💻 Frontend + Backend (Fullstack):** Proficient in developing both client-side and server-side logic.
-* **🎨 UI/UX & Design Systems:** Creating intuitive user interfaces and maintaining consistent design principles.
-* **🔗 API Integration:** Connecting and managing data flow between systems using various APIs.
-* **🤝 Project Collaboration:** Mastering workflow and teamwork using **Git & GitHub** for version control.
+* **🌐 Web Applications** 
+* **🧠 ML/AI with Python** 
+* **💻 Frontend + Backend (Fullstack)** 
+* **🎨 UI/UX & Design Systems** 
+* **🔗 API Integration** 
+* **🤝 Project Collaboration** 
 
 ---
 
 ---
-
-## 🔥 Featured Projects
-
-* **🌦 Weather App** — HTML, CSS, JS, OpenWeatherMap API
-* **🛒 Shopfinity E-Commerce** — React, PHP, and MySQL
-* **📝 Blog App** — React and JSON Server
-* **🌐 Portfolio Website** — React and TailwindCSS
-
----
-
-🌐 Portfolio Website — React + TailwindCSS
-
----
-
 
